@@ -29,11 +29,11 @@ color:
 
 # Favicon
 favicon:
-  small: /images/icons/favicon-16x16.png
-  medium: /images/icons/favicon-32x32.png
-  apple_touch_icon: /images/icons/apple-touch-icon.png
-  safari_pinned_tab: /images/icons/stun-logo.svg
-  msapplication: /images/icons/favicon-144x144.png
+  small: /Blog/images/icons/favicon-16x16.png
+  medium: /Blog/images/icons/favicon-32x32.png
+  apple_touch_icon: /Blog/images/icons/apple-touch-icon.png
+  safari_pinned_tab: /Blog/images/icons/stun-logo.svg
+  msapplication: /Blog/images/icons/favicon-144x144.png
 
 # Font
 font:
@@ -45,7 +45,7 @@ background_image:
 
 # Loading
 loading:
-  gif: /images/theme/loading.gif
+  gif: /Blog/images/theme/loading.gif
   lottie:
 
 # Preview
@@ -55,14 +55,14 @@ preview:
   background:
     type: image # image video
     default_image:
-      light: /images/theme/welcome-image.jpg
-      dark: /images/theme/welcome-image.jpg
+      light: /Blog/images/theme/welcome-image.jpg
+      dark: /Blog/images/theme/welcome-image.jpg
     video:
     api: # https://source.unsplash.com/random/1920x1080
     size: cover # css: background-size
     position: center # css: background-position
   motto:
-    default: Han 想與你分享
+    default: 想 Han 你分享
     color: '#ffffff'
     typing: false
     api: 
@@ -235,7 +235,7 @@ lazyload:
   enable: true
   only_post: false
   loading:
-    gif: /images/theme/loading.gif
+    gif: /Blog/images/theme/loading.gif
     lottie:
 
 # FancyBox
