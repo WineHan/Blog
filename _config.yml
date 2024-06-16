@@ -65,6 +65,8 @@ index_generator:
   per_page: 9
   order_by: -date
 
+root: /Blog/
+
 # Category & Tag
 default_category: uncategorized
 category_map:
